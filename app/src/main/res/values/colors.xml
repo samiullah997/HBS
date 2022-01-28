@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#263238</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="colorPrimaryText">#ffab01</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorTextIcons">#ffab01</color>
+    <color name="colorBackground">#FAFAFA</color>
+    <color name="colorHintText">#263238</color>
+    <color name="toolbar_color">#263238</color>
+    <color name="nav_header_color">#ffab01</color>
+    <color name="black">#ffab01</color>
+    <color name="red">#F10707</color>
+    <color name="background_floating_btn">#07bca4</color>
+    <color name="income_background_btn">#ffab01</color>
+    <color name="main_fb_color">#3F51B5</color>
+    <color name="date_color">#ffab01</color>
+    <color name="white">#fff</color>
+
+
+</resources>

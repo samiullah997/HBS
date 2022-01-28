@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509233859196",
+    "project_id": "hbsystem-7918f",
+    "storage_bucket": "hbsystem-7918f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509233859196:android:775eb71b884400048757f9",
+        "android_client_info": {
+          "package_name": "com.example.hbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509233859196-9mq3k2cnifg0s98soc2p07s90ndjk72i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvlYZ9NdCvoA1jd86KeCpPCOXwH4iC3yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509233859196-9mq3k2cnifg0s98soc2p07s90ndjk72i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
